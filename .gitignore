@@ -1,0 +1,9 @@
+*.sdf
+/GameOgre.opensdf
+/Release/*.log
+/ipch
+*.pdb
+*.obj
+*.tlog
+/Release/*.manifest
+/Release/*.lastbuildstate
